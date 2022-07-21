@@ -29,8 +29,8 @@ def weather():
         city_name = request.form['location']
         city_name = city_name.upper()
         #print(city_name)
-        #api_key = os.environ['weather_api']
-        api_key = '6c98042f0a59d96abdc4dad334e810f2'
+        api_key = os.environ['weather_api']
+       
         #print(os.environ['weather_api'])
         url= "http://api.openweathermap.org/data/2.5/weather?q="
         full_url = url+city_name+"&appid="+api_key
