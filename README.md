@@ -60,7 +60,7 @@ The features of this project are, user can:
 [<img target="_blank" src="https://tse1.mm.bing.net/th?id=OIP.iNj2jHOeP7WAo54wYda1mAHaCp&pid=Api&P=0" width=280>]()
 
 
-## Getting Started
+## Getting Started 📝
 
 ### Installation instructions
 
@@ -101,6 +101,3 @@ Contributions, issues, and feature requests are welcome!
 
 Give a ⭐️ if you like this project!
 
-## 📝 License
-
-This project is [MIT](./LICENSE) licensed.
