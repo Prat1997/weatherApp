@@ -27,7 +27,7 @@ except Exception as e:
 def db_create():
     
     create_db_sql="""
-    create database if not exists Student_Info 
+    create database if not exists weatherApp
     """
     cursor.execute(create_db_sql)
     conn.commit()
@@ -53,13 +53,20 @@ def use_database():
 def table_create():
     #cursor=conn.cursor()
     create_table_sql="""
-    create table if not exists Student_Details(
+    create table if not exists Weather_Details(
     id int primary key auto_increment not null,
     `Time` datetime,
-    Name varchar(30),
-    email varchar(30),
-    comment varchar(100),
-    gender varchar(10)
+    temprature float,
+    `description` varchar(50),
+    humidiy float,
+    wind_speed float,
+    country varchar(30),
+    city varchar(30),
+    longitute float,
+    latitute float,
+    visibility float,
+    pressure float,
+    wind_degree float
     );
     """
     cursor.execute(create_table_sql)
