@@ -1,4 +1,4 @@
-# Weather-app
+# Weather-app 📊
 
 ## Table of contents ✏️
 
@@ -39,14 +39,14 @@ Heroku:- https://weather-app-detail.herokuapp.com/
 ![image](https://user-images.githubusercontent.com/71208983/180619511-6672de5c-662e-4e2d-979c-663562c4d67b.png)
 
 
-## Features
+## Features 🗄️
 
 The features of this project are, user can:
 
 1. User as sees the information about his current location weather.
 2. User can search for more than 200 cities around the world.
 
-## Built With
+## Built With 
 
 - ![](https://forthebadge.com/images/badges/made-with-python.svg)
 - [![forthebadge](https://forthebadge.com/images/badges/uses-html.svg)](https://forthebadge.com)
@@ -76,7 +76,7 @@ Follow along the steps below to get a copy at your local machine.
   cd weather-app
   ```
 
-- Install the pip package with `pip install -r requirement.txt`
+- Install the pip package with `pip install -r requirements.txt`
 - Start the server with `python main.py`
 - The site should automatically open in your browser at http://localhost:5000/ if it didn't then open your browser with that link.
 
@@ -86,7 +86,7 @@ Follow along the steps below to get a copy at your local machine.
 
 - GitHub: [@prateek](https://github.com/Prat1997/)
 
-## 🤝 Contributing
+## 🤝 Contributing 
 
 Contributions, issues, and feature requests are welcome!
 
