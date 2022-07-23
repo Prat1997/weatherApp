@@ -36,6 +36,8 @@ Heroku:- https://weather-app-detail.herokuapp.com/
 
 ![image](https://user-images.githubusercontent.com/71208983/180619444-ac1cbffa-aebd-4666-8a60-70f28a09741d.png)
 
+![image](https://user-images.githubusercontent.com/71208983/180620167-69758d72-7378-4232-baed-db1fb8b46a54.png)
+
 ![image](https://user-images.githubusercontent.com/71208983/180619511-6672de5c-662e-4e2d-979c-663562c4d67b.png)
 
 
