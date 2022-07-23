@@ -76,7 +76,12 @@ Follow along the steps below to get a copy at your local machine.
   cd weather-app
   ```
 
-- Install the pip package with `pip install -r requirements.txt`
+- Install the pip package with
+
+```
+  pip install -r requirements.txt
+```
+
 - Start the server with `python main.py`
 - The site should automatically open in your browser at http://localhost:5000/ if it didn't then open your browser with that link.
 
